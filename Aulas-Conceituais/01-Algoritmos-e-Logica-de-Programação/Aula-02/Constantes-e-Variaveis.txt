@@ -1,0 +1,62 @@
+*Constantes*
+
+* São valores que nunca se alteram ao longo 
+do algoritimo.
+* Exemplo:
+- A constante PI
+- Para realizar cálculos trigonométricos, admite-se
+que o valor de PI é igual a 3,1416...
+- Um valor de Porcentagem
+- Imagine uma aplicação que concede desconto de 
+5% porcento a quem compra a vista.
+- Pode-se criar uma constante chamada de "Desconto"
+e atribuir a ela o valor 5 
+
+# Variáveis
+
+* São valores que variam ao longo do tempo
+- Permitem armazenar e acessar uma informação
+- Os valores ficam armazenados em memórias
+- Os valores podem ser alterados confome a necessidade
+- Auxiliam na resolução dos problemas.
+
+* Toda variavel possui:
+- Um tipo
+- Um identificador(nome)
+
+*As variáveis têm niomes e tipos que estão ligados à função 
+aquela variável*
+
+----------------------------
+ 
+* Nomeação de Variáveis
+
+- Nunca Começam com um número.
+- Geralmente começam com uma letra
+ou underline.
+- Podem conter letras, underlines e números,
+desde que o número não seja o primeiro caractere.
+- Não admite espaços.
+- Não admite caracteres especiais.
+- Não podem ser iguais a nenhuma palavra reservada.
+
+Identificadores Válidos
+A, a, media, altura2, media_idade,x36
+
+Identificadores Invalidos
+2ª, b@, media idade, caso, se x*y
+*caso* = palavra reservada
+*se* = palavra reservada
+
+* Tipos: 
+- O tipo de uma variável é definida pelo
+seu conteúdo.
+- Tipagem dinâmica x Tipagem Estática.
+- Uma variável que armazena um número inteiro, sem
+casas decimais, é do tipo INTEIRO.
+- Uma variável que armazena um valor real,
+com casas decimais, é do tipo REAL ou FLUTUANTE.
+- Uma variável que armazena um valor "verdadeiro" ou "falso" é 
+do tipo LÓGICO ou BOOLEANO.
+- Uma variável que armazena uma ou mais letras
+é considerada do tipo CARACTERE.

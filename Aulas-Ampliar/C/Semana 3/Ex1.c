@@ -1,5 +1,6 @@
 /*
     Escreva um código que faça a tabuada de multiplicação desejada pelo usuario.
+    OBS: FIz esse exercício com base em exercícios passados.
 */
 
 
