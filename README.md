@@ -23,3 +23,8 @@ ter salvo aqui no GitHub.
 
 - Nessa pasta irei por o que é pedido no código do exercício e a resolução. 
 - Pretendo adicionar os arquivos em todas as linguagens que irei aprendendo ao longo do tempo
+
+## Atualização do Dia ##
+
+- É bom vérificar aqui o que eu atualizei nesse repositório, sempre vou colocar o que foi incerido ou removido. 
+E também da para verificar o que eu andei estudando no dia.

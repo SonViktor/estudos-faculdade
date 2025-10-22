@@ -2,7 +2,7 @@
 
 # Tipos de Dados #
 
-* Oito tipos de daods:
+* Oito tipos de dados:
 
 > char: Caracteres simples e strings (cadeias de caracterse)
 > int: dados numéricos se casas decimais 

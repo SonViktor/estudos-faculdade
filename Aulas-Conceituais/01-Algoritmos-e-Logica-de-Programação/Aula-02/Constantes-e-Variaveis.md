@@ -1,4 +1,4 @@
-*Constantes*
+# Constantes #
 
 * São valores que nunca se alteram ao longo 
 do algoritimo.
@@ -12,7 +12,7 @@ que o valor de PI é igual a 3,1416...
 - Pode-se criar uma constante chamada de "Desconto"
 e atribuir a ela o valor 5 
 
-# Variáveis
+# Variáveis #
 
 * São valores que variam ao longo do tempo
 - Permitem armazenar e acessar uma informação
@@ -24,12 +24,12 @@ e atribuir a ela o valor 5
 - Um tipo
 - Um identificador(nome)
 
-*As variáveis têm niomes e tipos que estão ligados à função 
-aquela variável*
+* As variáveis têm niomes e tipos que estão ligados à função 
+aquela variável 
 
 ----------------------------
  
-* Nomeação de Variáveis
+**Nomeação de Variáveis**
 
 - Nunca Começam com um número.
 - Geralmente começam com uma letra
@@ -40,10 +40,10 @@ desde que o número não seja o primeiro caractere.
 - Não admite caracteres especiais.
 - Não podem ser iguais a nenhuma palavra reservada.
 
-Identificadores Válidos
+* Identificadores Válidos
 A, a, media, altura2, media_idade,x36
 
-Identificadores Invalidos
+* Identificadores Invalidos
 2ª, b@, media idade, caso, se x*y
 *caso* = palavra reservada
 *se* = palavra reservada
