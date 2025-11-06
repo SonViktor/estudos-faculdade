@@ -2,7 +2,7 @@
     DESAFIO!!!
 
     Escreva um programa em C que receba 5 números inteiros em um vetor 
-    O program deverá ecibir na tela os 5 números em ordem crescente.
+    O program deverá exibir na tela os 5 números em ordem crescente.
 
     Ex:
     Recebe: 10 6 7 2 8
